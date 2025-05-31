@@ -27,6 +27,16 @@ wouterbaake](https://github.com/wouterbaake/OmnikMQTT) .
 Owners of a Wifi kit starting with s/n 402xxxxxxx should checkout
 [Omnikol-PV-Logger by t3kpunk](https://github.com/t3kpunk/Omniksol-PV-Logger).
 
+## Werking Goodwe en Hosola
+  
+Hosola gelukt met deze py bibliotheek:  
+'''python3 LiveStats.py'''
+
+Via PIP3 install goodwe is het gelukt de goodwe uit te lezen  
+https://pypi.org/project/goodwe/  
+https://github.com/marcelblijleven/goodwe  
+'''python3 goodwe_read.py'''
+
 ## Installation and Setup
 * Install Python (tested with python-2.7.14 and python-3.6.4)
 * Git clone the source with `git clone https://github.com/XtheOne/Inverter-Data-Logger.git`
